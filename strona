@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body style="background-color: crimson;">
+    <h2>MPK Lublin</h2>
+    <hr>
+
+
+   <div>
+    <a>Sieć autobusów w Lublinie</a>
+    <label for="informacje">
+        <a></a>
+    </label>
+   </div>
+    <img src="https://seekvectorlogo.com/wp-content/uploads/2018/07/mpk-lublin-vector-logo.png" alt=" mpk">
+
+    <div>
+     <h2>MPK Lublin informacje o stronie</h2>
+     <h3>Zobacz rozkład jazdy</h3>
+     
+
+      </div>
+
+      <hr>
+      <h2></h2>    
+  
+      <form action="plik.php" method="POST">
+          <h2>Komunikaty</h2>
+          <p>Rozkład jazdy ważny od 1 września</p>
+          <p>Rozkład jazdy ważny do 27 czerwca</p>
+  
+          <label for="">
+              <p></p>
+          </label>
+  
+          <label for="">
+              <h1>O Firmie</h1>
+              <p>kontakt</p>
+              <p>Zakres działalności</p>
+              <p>Zasady cyberhigieny</p>
+              <p>Deklaracja dostępności</p>
+           
+              
+           </label>
+           <label>
+          <h2>Kup bilet</h2>
+          <p>Online</p>
+         </label>
+         <label>
+           <h1>Aktualności</h1>
+           <p>Możesz zapisać się do nas na kierowce autobusu</p>
+           <p>-Wymagane jest prawo jazdy na busy</p>
+           <p>-Zapisy na jazdy będą trwać od 1 września do 1 października</p>
+           <p>-Jazdy zaczną się 3 listopada</p>
+
+         </label>
+         <table>
+            <tr>
+                <th>Rozkład jazdy</th>
+                <th>Autobusy</th>
+
+            </tr>
+            <tr>
+                <td>Lublin-Świdnik</td>
+                <td>7,23</td>
+            </tr>
+            <tr>
+                <td>Lublin-Majdanek</td>
+                <td>34,56</td>
+            </tr>
+            
+         </table>
+
+
+         <table>
+            <tr>
+                <th>Autobus 7 </th>
+                <th>Autobus 23 godziny</th>
+
+            </tr>
+            <tr>
+                <td>10:35</td>
+                <td>10:47</td>
+            </tr>
+            <tr>
+                <td>11:12</td>
+                <td>11:23</td>
+            </tr>
+            <tr>
+                <td>12:07</td>
+                <td>12:16</td>
+            </tr>
+            <tr>
+                <td>13:33</td>
+                <td>13:47</td>
+            </tr>
+            <tr>
+               <td>14:43</td>
+               <td>14:55</td>
+            </tr>
+            
+         </table>
+      <table>
+        <tr>
+          <th>Autobus 34</th>
+          <th>Autobus 56 godziny</th>
+        </tr>
+        <tr>
+            <td>15:05</td>
+            <td>15:16</td>
+
+
+
+        </tr>
+        <tr>
+<td>16:15</td>
+<td>16:24</td>
+
+
+        </tr>
+        <tr>
+            <td>17:31</td>
+            <td>17:40</td>
+        </tr>
+        <tr>
+<td>18:40</td>
+<td>18:52</td>
+
+
+        </tr>
+        <tr>
+            <td>19:01</td>
+            <td>19:17</td>
+        </tr>
+
+
+
+
+      </table>
+      <ol>
+        <li>Prezes Zarządu - Dyrektor Naczelny
+
+            Bogdan Kołciuk</li>
+        <li>Wiceprezes Zarządu - Dyrektor ds. Technicznych 
+
+            Dariusz Tomasik</li>
+       
+    </ol>
+
+
+   
+
+    
+</body>
+</html>
