@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    background-color: white;
+    flex-direction: column;
+    height: 100vh;
+    width: 100vw;
+}
+.gorny{
+    height: 20%;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+.lewo{
+    width: 20%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    font-size: 100px;
+    border: 1px solid black;
+    align-items: center;
+}
+.prawo{
+    height: 100%;
+    width: 20%;
+    justify-content: center;
+    display: flex;
+    border: 1px solid black;
+    font-size: 100px;
+    flex-direction: row;
+    
+}
+a{
+    color: black;
+    text-decoration-line: underline;
+    text-decoration: wavy;  
+}
+.dolny{
+    
+}
